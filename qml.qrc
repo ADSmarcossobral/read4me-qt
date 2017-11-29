@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>read4me.qml</file>
+        <file>qtquickcontrols2.conf</file>
+        <file>images/arrow.png</file>
+        <file>images/drawer.png</file>
+        <file>images/menu.png</file>
+        <file>images/read4me-logo.png</file>
+        <file>pages/settings.qml</file>
+        <file>pages/about.qml</file>
+        <file>pages/books.qml</file>
+        <file>pages/favorites.qml</file>
+    </qresource>
+</RCC>
